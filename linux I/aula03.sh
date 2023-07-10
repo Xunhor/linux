@@ -1,6 +1,6 @@
-mv # move arquivos e diretórios
-cp # copia de arquivos
-cp -r # para copiar diretório
+mv # move arquivos e diretórios. Também pode ser usado para renomear arquivos/diretórios
+cp # copia a arquivos
+cp -r # copia diretório
 
 zip # para compactar arquivos
 zip -r # para compactar recusivo

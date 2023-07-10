@@ -9,6 +9,6 @@ ls # lista o conteúdo do diretório
 clear # limpa o terminal
 
 # flags
--l # lista de forma detalha
+-l # lista de forma detalhada
 -a # lista os arquivos e diretórios incluindo arquivos ocultos
 cat -n # mostra as linhas além de mostrar o conteúdo de um arquivo.
